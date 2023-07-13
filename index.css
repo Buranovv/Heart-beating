@@ -17,3 +17,7 @@
     transform: scale(1);
   }
 }
+
+audio{
+  display: block;
+}
